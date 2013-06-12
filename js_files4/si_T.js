@@ -1,0 +1,1 @@
+function si_T(a){if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+'IG='+_G.IG+'&CID='+_G.CID+'&PM=Y'+'&'+a;}return true;}

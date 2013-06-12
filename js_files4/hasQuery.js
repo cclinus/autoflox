@@ -1,0 +1,1 @@
+function hasQuery(n){return n.value.replace(/\s+/gi,"")!=""}

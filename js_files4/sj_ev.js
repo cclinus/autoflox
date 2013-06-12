@@ -1,0 +1,1 @@
+function sj_ev(n){return sb_i8l?event:n}

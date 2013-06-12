@@ -1,0 +1,1 @@
+function ft(n){if(_w.B_er)throw n;}

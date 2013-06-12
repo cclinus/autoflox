@@ -1,0 +1,3 @@
+//<![CDATA[
+function hasQuery(n){return n.value.replace(/\s+/gi,"")!=""}function qs(n){if(_w.encodeURIComponent){var t=n.href,i=encodeURIComponent(_ge("sb_form_q").value);n.href=t.indexOf("q=")!=-1?t.replace(new RegExp("q=[^&$]*"),"q="+i):t.indexOf("where1=")!=-1?t.replace(new RegExp("where1=[^&$]*"),"where1="+i):t+(t.indexOf("?")<0?"?":"&")+"q="+i}return 1}function selectScope(n,t){hasQuery(_ge("sb_form_q"))&&(n.href=_scopeUrls[t],qs(n))}_scopeUrls=[];
+//]]>

@@ -1,0 +1,1 @@
+function _ge(n){return _d.getElementById(n)}

@@ -1,0 +1,1 @@
+function st(){sj_ue(_d,i,g)}

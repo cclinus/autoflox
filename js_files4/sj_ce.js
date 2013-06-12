@@ -1,0 +1,1 @@
+function sj_ce(n,t,i){var r=_d.createElement(n);return t&&(r.id=t),i&&(r.className=i),r}

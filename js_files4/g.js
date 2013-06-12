@@ -1,0 +1,1 @@
+function g(){_d[c]?n.pause():r===!0&&o()}

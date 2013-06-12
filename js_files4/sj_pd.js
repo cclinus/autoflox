@@ -1,0 +1,1 @@
+function sj_pd(n){sb_ie?event.returnValue=!1:n.preventDefault()}

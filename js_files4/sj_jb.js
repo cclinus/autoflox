@@ -1,0 +1,1 @@
+function sj_jb(n,t){function r(n,t,i,u){i&&sj_ue(i,u,r),sj_evt.bind("onP1",function(){if(!n.l){n.l=1;var i=sj_ce("script");i.src=(t?"/fd/sa/"+_G.Ver:"/sa/"+_G.AppVer)+"/"+n.n+".js",sj_b.appendChild(i)}},1,5)}for(var f=arguments,e,u,i=2,o={n:n};i<f.length;i+=2)e=f[i],u=f[i+1],sj_be(e,u,sj_wf(r,o,t,e,u));i<3&&r(o,t)}

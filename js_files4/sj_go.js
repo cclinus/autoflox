@@ -1,0 +1,1 @@
+function sj_go(n,t,i){for(var r=0;n.offsetParent&&n!=(i||sj_b);)r+=n["offset"+t],n=n.offsetParent;return r}

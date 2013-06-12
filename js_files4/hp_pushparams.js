@@ -1,0 +1,1 @@
+function hp_pushparams(n){return _w.location.search.length>1&&n.push&&n.push(_w.location.search.substring(1)),n}

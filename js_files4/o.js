@@ -1,0 +1,1 @@
+function o(){try{n&&n.play&&n.play()}catch(t){ft(t)}}

@@ -1,0 +1,1 @@
+function lb(){function e(n){i=n[1],u.unbind(f,e)}var u=sj_evt,f="onSbBusy",i,n,r,t;for(u.bind(f,e,1),n=1;n<4;++n)r="sb_form"+(n>1?n:""),t=_ge(r),!t||i&&_ge(r+"_q")==i||!t.reset||t.reset();_w.si_sendCReq&&sb_st(si_sendCReq,800),_w.lbc&&lbc()}

@@ -1,0 +1,1 @@
+function sj_we(n,t,i){while(n&&n!=(i||sj_b)){if(n==t)return!0;n=n.parentNode}return!1}

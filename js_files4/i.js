@@ -1,0 +1,1 @@
+function i(){--r<1&&u.fire("onP1")}

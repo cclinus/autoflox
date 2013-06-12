@@ -1,0 +1,1 @@
+function sj_be(n,t,i,r){if((n==_w||n==_d.body)&&t=="load"&&"undefined"!=typeof _d.readyState&&"complete"===_d.readyState){i();return}n.addEventListener?n.addEventListener(t,i,r):n.attachEvent?n.attachEvent("on"+t,i):n["on"+t]=i}

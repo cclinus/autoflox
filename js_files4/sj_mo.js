@@ -1,0 +1,1 @@
+function sj_mo(n){return sb_i8l?event.toElement:n.relatedTarget}

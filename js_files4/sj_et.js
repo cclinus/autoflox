@@ -1,0 +1,1 @@
+function sj_et(n){return sb_i8l?event.srcElement:n.target}

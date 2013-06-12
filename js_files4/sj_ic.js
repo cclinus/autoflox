@@ -1,0 +1,1 @@
+function sj_ic(n){var t=sj_ce("style");_d.getElementsByTagName("head")[0].appendChild(t),t.textContent!==undefined?t.textContent=n:t.styleSheet.cssText=n}

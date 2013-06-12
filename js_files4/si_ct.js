@@ -1,0 +1,1 @@
+function si_ct(n,t){var u="getAttribute",r,i,e;try{for(;n!==_d.body;n=n.parentNode){if(r=n.tagName=="A"&&n[u]("h")||n[u]("_ct"),r){i=n[u]("_ctf")||"si_T",_w[i]&&_w[i]("&"+r);break}if(t)break}}catch(f){}return!0}

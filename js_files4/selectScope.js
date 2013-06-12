@@ -1,0 +1,1 @@
+function selectScope(n,t){hasQuery(_ge("sb_form_q"))&&(n.href=_scopeUrls[t],qs(n))}
